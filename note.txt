@@ -9,6 +9,10 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 
+Remember to exclude any api file using .gitignore 
+
+
+
 
 
 
