@@ -1,0 +1,71 @@
+
+{
+"_comment": "This file contains cybersecurity quiz questions for the secuQuiz project",
+  "questions": [
+    {
+      "id": 1,
+      "category": "phishing",
+      "question": "What is the most common sign of a phishing email?",
+      "options": [
+        "A) Perfect grammar and spelling",
+        "B) Urgent language requesting immediate action",
+        "C) Emails from known contacts only",
+        "D) Professional email signatures"
+      ],
+      "correct_answer": "B",
+      "explanation": "Phishing emails often use urgent language to pressure victims into acting quickly without thinking. They create a sense of urgency to bypass critical thinking."
+    },
+    {
+      "id": 2,
+      "category": "passwords",
+      "question": "Which of these is the strongest password?",
+      "options": [
+        "A) Password123!",
+        "B) 12345678",
+        "C) MyDog'sName2023",
+        "D) R@nd0m$tr1ng#47"
+      ],
+      "correct_answer": "D",
+      "explanation": "Strong passwords should be random, contain mixed case letters, numbers, and special characters. They should not contain personal information or common patterns."
+    },
+    {
+      "id": 3,
+      "category": "social_engineering",
+      "question": "A stranger calls claiming to be from IT and asks for your password to 'fix your account'. What should you do?",
+      "options": [
+        "A) Give them the password if they know your employee ID",
+        "B) Hang up and call IT directly using official contact information",
+        "C) Ask them to prove their identity with personal questions",
+        "D) Give them a fake password to test if they're legitimate"
+      ],
+      "correct_answer": "B",
+      "explanation": "Legitimate IT staff will never ask for passwords over the phone. Always verify requests through official channels. This is a classic social engineering attack."
+    },
+    {
+      "id": 4,
+      "category": "malware",
+      "question": "What should you do if you receive a USB drive from an unknown source?",
+      "options": [
+        "A) Plug it in to see what's on it",
+        "B) Scan it with antivirus before opening",
+        "C) Never plug it into your computer",
+        "D) Only open it on a friend's computer"
+      ],
+      "correct_answer": "C",
+      "explanation": "USB drives from unknown sources can contain malware that activates immediately upon insertion. The safest approach is to never plug in unknown devices."
+    },
+    {
+      "id": 5,
+      "category": "passwords",
+      "question": "How often should you change your passwords?",
+      "options": [
+        "A) Every 30 days",
+        "B) Every 90 days",
+        "C) Only when there's a security breach",
+        "D) Once a year"
+      ],
+      "correct_answer": "C",
+      "explanation": "Modern security practices recommend changing passwords only when there's evidence of compromise. Frequent changes can lead to weaker passwords and password reuse."
+    }
+  ]
+}
