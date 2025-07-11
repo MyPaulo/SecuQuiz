@@ -1,0 +1,14 @@
+# Bytecode files
+__pycache__/
+*.pyc
+
+# Environment & secrets
+.env
+*.key
+*.pem
+config.json
+api_keys.py
+
+# OS files
+.DS_Store
+Thumbs.db
